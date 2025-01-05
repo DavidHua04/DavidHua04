@@ -18,8 +18,6 @@ Hello! I'm David, an undergraduate student in Computer Science and Statistics at
 - Version Control: Git, GitHub
 - Prompt Engineering
 
-[![roadmap.sh](https://roadmap.sh/card/tall/677a3a9570129741a86411ea?variant=dark)](https://roadmap.sh)
-
 ## 🌐 Languages
 - English (Advanced)
 - Mandarin (Proficient/Native)
