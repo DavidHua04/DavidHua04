@@ -8,12 +8,12 @@ Hello! I'm David, an undergraduate student in Computer Science and Statistics at
 ## 🎓 Education
 - **University of British Columbia, Vancouver**
   - B.S. in Computer Science, Expected Graduation: 2028
-  - GPA: 4.33 (93.3%)
+  - GPA: 4.33
 
 ## 💻 Technical Skills
 - Python (Proficient)
-- R (Basic)
-- Java (Basic)
+- R (Proficient)
+- Java (Proficient)
 - Racket (Basic)
 - Version Control: Git, GitHub
 - Prompt Engineering
