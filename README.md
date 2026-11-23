@@ -33,7 +33,7 @@ Hello! I'm David, an undergraduate student in Computer Science and Statistics at
 
 ---
 ### 💡 Quick Links
-- [Download my CV](Resume_David_Hua.pdf)
+- [Download my CV](https://davidhua04.github.io/resume_EN/resume.pdf)
 - [Visit my personal website](https://davidhua04.github.io/)
 
 Thank you for visiting my GitHub profile! Feel free to connect with me or explore my projects.
